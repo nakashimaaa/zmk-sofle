@@ -13,7 +13,7 @@ layers:
   - I
   - O
   - P
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:backspace-reverse-outline$$
   - $$mdi:keyboard-esc$$
   - A
   - S
@@ -47,7 +47,7 @@ layers:
   - $$mdi:star-three-points$$
   - Ctl+$$mdi:apple-keyboard-option$$
   - END
-  - $$mdi:backspace-reverse-outline$$
+  - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:apple-keyboard-option$$
