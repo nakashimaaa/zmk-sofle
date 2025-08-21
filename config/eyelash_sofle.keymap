@@ -37,6 +37,15 @@
     behaviors {
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        layer3 {
+            bindings = <&to 3>;
+            key-positions = <56 60>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
