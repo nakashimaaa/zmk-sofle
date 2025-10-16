@@ -56,14 +56,14 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
-  - Alt+Sft+$$mdi:keyboard-tab$$
+  - $$mdi:keyboard-tab$$
   - layer1
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
   - {t: '$$mdi:backspace$$', type: backspace}
-  - LANGUAGE 5
+  - LANG ZENKAKUHANKAKU
   - INT MUHENKAN
   layer1:
   - {t: '`', s: '~'}
